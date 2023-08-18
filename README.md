@@ -15,9 +15,9 @@
   </a>
 </p>
 
-<h3 align="center">
+<h2 align="center">
   I build dynamic and user-centric websites and applications with a focus on accessibility.
-</h3>
+</h2>
 
 ## Technologies, Tools and Platforms:
 ![JavaScript](https://img.shields.io/badge/-Javascript-%232c3e50?style=for-the-badge&logo=javascript&logoColor=white)
