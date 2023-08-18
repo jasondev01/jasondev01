@@ -36,11 +36,11 @@
 ![Nextjs](https://img.shields.io/badge/nextjs-%232c3e50.svg?style=for-the-badge&logo=nextjs&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## My Current Stat: 
+## My Current Stat and Total Contribution: 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasondev01&show_icons=true&theme=dark&locale=en&layout=compact" alt="jasondev01" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasondev01&theme=dark" alt="jasondev01" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasondev01&theme=dark" alt="jasondev01" height="200" />
   </a>
 </div>
 
@@ -49,7 +49,7 @@
 ## Support me: 
 <p align="center">
   <a href="https://www.buymeacoffee.com/somae">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="somae" />
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="somae"  />
   </a>
   &nbsp;&nbsp;&nbsp;
   
