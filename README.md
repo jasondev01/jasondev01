@@ -56,12 +56,10 @@
     <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="180" alt="somae" />
   </a>
 </p>
-<br><br>
+<br>
 
 <div align="center">
   
 ``` The future depends on what you do today. ```
   
 </div>
-
-<br><br>
