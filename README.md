@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jasondev01&label=Profile%20views&color=0e75b6&style=flat" alt="jsnflix" />
   <a href="https://github.com/jasondev01">
@@ -15,9 +14,11 @@
   </a>
 </p>
 
-<h2 align="center">
+<h3 align="center">
   I build dynamic and user-centric websites and applications with a focus on accessibility.
-</h2>
+</h3>
+
+<br>
 
 ## Technologies, Tools and Platforms:
 ![JavaScript](https://img.shields.io/badge/-Javascript-%232c3e50?style=for-the-badge&logo=javascript&logoColor=white)
