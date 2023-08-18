@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://twitter.com/jsnflix" target="blank"><img src="https://img.shields.io/twitter/follow/jsnflix?logo=twitter&style=for-the-badge" alt="jsnflix" /></a> </p>
 
-<h3 align="left"> ## Connect with me: ## </h3>
+## Connect with me: 
 <p align="left">
   <a href="https://twitter.com/jsnflix" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jsnflix" height="30" width="40" />
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<h3 align="left"> ## Languages, Tools and Platforms: ## </h3>
+## Languages, Tools and Platforms: 
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -66,7 +66,7 @@
 <br>
 <br>
 
-<h3 align="left"> ## Stats: ## </h3>
+ ## My current stats:: 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasondev01&show_icons=true&theme=dark&locale=en&layout=compact" alt="jasondev01" />
 </p>
@@ -75,7 +75,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasondev01&theme=dark" alt="jasondev01" />
 </p>
 
-<h3 align="left">## Support: ##</h3>
+## Support: 
 <p align='center'>
   <a href="https://www.buymeacoffee.com/somae"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="somae" />
