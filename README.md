@@ -40,7 +40,7 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasondev01&show_icons=true&theme=dark&locale=en&layout=compact" alt="jasondev01" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasondev01&theme=dark" alt="jasondev01" height="200" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasondev01&theme=dark&locale=en&layout=compact" alt="jasondev01" height="200" />
   </a>
 </div>
 
