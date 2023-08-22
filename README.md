@@ -50,23 +50,22 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-## Support me: 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/somae">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="somae"  />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://ko-fi.com/somaa">
-    <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="180" alt="somaa" />
-  </a>
-</p>
-<br>
+  ## Support me: 
+  <p align="center">
+    <a href="https://www.buymeacoffee.com/somae">
+      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="somae"  />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    
+    <a href="https://ko-fi.com/somaa">
+      <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="180" alt="somaa" />
+    </a>
+  </p>
 
-<p align="center">
-  
-``` The future depends on what you do today. ```
-  
-</p>
+  <p align="center">
+    
+  ``` The future depends on what you do today. ```
+    
+  </p>
 
 </div>
