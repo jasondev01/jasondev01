@@ -18,6 +18,7 @@
   I build dynamic and user-centric websites and applications with a focus on accessibility.
 </h3>
 <div align="center">
+  
   ### Technologies, Tools and Platforms: 
   <p align="center"> 
     
