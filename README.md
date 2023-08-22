@@ -17,32 +17,33 @@
 <h3 align="center">
   I build dynamic and user-centric websites and applications with a focus on accessibility.
 </h3>
-
-### &#x1f4c8; Technologies, Tools and Platforms:
-![JavaScript](https://img.shields.io/badge/-Javascript-%232c3e50?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/react-%232c3e50.svg?style=for-the-badge&logo=react&logoColor=white)
-![MySQL](https://img.shields.io/badge/-mySQL-%232c3e50?style=for-the-badge&logo=mysql&logoColor=white)
-![Nodejs](https://img.shields.io/badge/nodejs-%232c3e50.svg?style=for-the-badge&logo=nodejs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%232c3e50.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/express-%232c3e50.svg?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Boostrap-%232c3e50?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-%232c3e50?style=for-the-badge&logo=CSS3&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%232c3e50.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%232c3e50.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%232c3e50.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/git-%232c3e50.svg?style=for-the-badge&logo=git&logoColor=white)
-![Nextjs](https://img.shields.io/badge/nextjs-%232c3e50.svg?style=for-the-badge&logo=nextjs&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### &#x1f4c8; My Current Stat and Total Contribution: 
 <div align="center">
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats"> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasondev01&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,python,tsql,hack)](https://github.com/jasondev01?tab=repositories) <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=jasondev01&theme=tokyonight&hide_border=true&background=1F222E" />
-<!--   </a> -->
-</div>
+  ### Technologies, Tools and Platforms:
+  ![JavaScript](https://img.shields.io/badge/-Javascript-%232c3e50?style=for-the-badge&logo=javascript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%232c3e50.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-mySQL-%232c3e50?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Nodejs](https://img.shields.io/badge/nodejs-%232c3e50.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/mongodb-%232c3e50.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Express](https://img.shields.io/badge/express-%232c3e50.svg?style=for-the-badge&logo=express&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Boostrap-%232c3e50?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-%232c3e50?style=for-the-badge&logo=CSS3&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/laravel-%232c3e50.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-%232c3e50.svg?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/netlify-%232c3e50.svg?style=for-the-badge&logo=netlify&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%232c3e50.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Nextjs](https://img.shields.io/badge/nextjs-%232c3e50.svg?style=for-the-badge&logo=nextjs&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  ### My Current Stat and Total Contribution: 
+  <p align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasondev01&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,python,tsql,hack)](https://github.com/jasondev01?tab=repositories) <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=jasondev01&theme=tokyonight&hide_border=true&background=1F222E" />
+  
+  </p>
+  
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</div>
 
 ## Support me: 
 <p align="center">
