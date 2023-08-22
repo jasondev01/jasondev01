@@ -56,7 +56,6 @@
       <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="somae"  />
     </a>
     &nbsp;&nbsp;&nbsp;
-    
     <a href="https://ko-fi.com/somaa">
       <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="180" alt="somaa" />
     </a>
