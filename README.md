@@ -18,9 +18,7 @@
   I build dynamic and user-centric websites and applications with a focus on accessibility.
 </h3>
 
-<br>
-
-## Technologies, Tools and Platforms:
+### &#x1f4c8; Technologies, Tools and Platforms:
 ![JavaScript](https://img.shields.io/badge/-Javascript-%232c3e50?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%232c3e50.svg?style=for-the-badge&logo=react&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-mySQL-%232c3e50?style=for-the-badge&logo=mysql&logoColor=white)
@@ -37,15 +35,14 @@
 ![Nextjs](https://img.shields.io/badge/nextjs-%232c3e50.svg?style=for-the-badge&logo=nextjs&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## My Current Stat and Total Contribution: 
+### &#x1f4c8; My Current Stat and Total Contribution: 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasondev01&show_icons=true&theme=dark&locale=en&layout=compact" alt="jasondev01" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasondev01&theme=dark&locale=en&layout=compact" alt="jasondev01" height="200" />
-  </a>
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasondev01&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,python,tsql,hack)](https://github.com/jasondev01?tab=repositories) <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=jasondev01&theme=tokyonight&hide_border=true&background=1F222E" />
+<!--   </a> -->
 </div>
 
-
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## Support me: 
 <p align="center">
