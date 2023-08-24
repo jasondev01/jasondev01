@@ -48,14 +48,18 @@
   </p>
 
   ### Support me: 
-  <p align="center">
-    <a href="https://www.buymeacoffee.com/somae">
-      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="somae"  />
-    </a>  &nbsp;
-     <a href="https://ko-fi.com/somaa">
-      <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="80" width="180" alt="somaa" />
-    </a>
-  </p>
+  <div align="center">
+    <p>
+      <a href="https://www.buymeacoffee.com/somae">
+        <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="somae"  />
+      </a> 
+    </p> &nbsp;
+    <p>
+      <a href="https://ko-fi.com/somaa">
+        <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="180" alt="somaa" />
+      </a>
+    </p>
+  </div>
 
   <p align="center">
     
