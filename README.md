@@ -35,8 +35,8 @@
   ![Vercel](https://img.shields.io/badge/vercel-%232c3e50.svg?style=for-the-badge&logo=vercel&logoColor=white) 
   ![Netlify](https://img.shields.io/badge/netlify-%232c3e50.svg?style=for-the-badge&logo=netlify&logoColor=white) 
   ![Nextjs](https://img.shields.io/badge/nextjs-%232c3e50.svg?style=for-the-badge&logo=nextjs&logoColor=white) 
-  ![RestAPI](https://img.shields.io/badge/nextjs-%232c3e50.svg?style=for-the-badge&logo=restapi&logoColor=white) 
-  ![API](https://img.shields.io/badge/nextjs-%232c3e50.svg?style=for-the-badge&logo=api&logoColor=white) 
+  ![RestAPI](https://img.shields.io/badge/restapi-%232c3e50.svg?style=for-the-badge&logo=restapi&logoColor=white) 
+  ![API](https://img.shields.io/badge/api-%232c3e50.svg?style=for-the-badge&logo=api&logoColor=white) 
   ![Git](https://img.shields.io/badge/git-%232c3e50.svg?style=for-the-badge&logo=git&logoColor=white) 
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
   
