@@ -32,7 +32,7 @@
   ![MySQL](https://img.shields.io/badge/-mySQL-%232c3e50?style=for-the-badge&logo=mysql&logoColor=white) 
   ![HTML5](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/-CSS3-%232c3e50?style=for-the-badge&logo=CSS3&logoColor=white) 
-  ![Tailwindcss](https://img.shields.io/badge/tailwindcss-%232c3e50?style=for-the-badge&logo=tailwindcss&logoColor=white) 
+  ![Tailwind](https://img.shields.io/badge/tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss&logoColor=white) 
   ![Bootstrap](https://img.shields.io/badge/-Boostrap-%232c3e50?style=for-the-badge&logo=bootstrap&logoColor=white) 
   ![Vercel](https://img.shields.io/badge/vercel-%232c3e50.svg?style=for-the-badge&logo=vercel&logoColor=white) 
   ![Netlify](https://img.shields.io/badge/netlify-%232c3e50.svg?style=for-the-badge&logo=netlify&logoColor=white) 
