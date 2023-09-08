@@ -22,7 +22,7 @@
   ### Technologies, Tools and Platforms: 
   <p align="center"> 
 
-  ![Nextjs](https://img.shields.io/badge/nextjs-%232c3e50.svg?style=for-the-badge&logo=nextjs&logoColor=white) 
+  ![Nextjs](https://img.shields.io/badge/nextjs-%232c3e50.svg?style=for-the-badge&logo=next.js&logoColor=white) 
   ![Typescript](https://img.shields.io/badge/typescript-%232c3e50.svg?style=for-the-badge&logo=typescript&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/-Javascript-%232c3e50?style=for-the-badge&logo=javascript&logoColor=white) 
   ![React](https://img.shields.io/badge/react-%232c3e50.svg?style=for-the-badge&logo=react&logoColor=white) 
