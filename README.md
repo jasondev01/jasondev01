@@ -51,9 +51,6 @@
   </p>
 
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jasondev01&theme=react&hide_border=true&card_width=460)](https://git.io/streak-stats)
-  
-
   ### Support me: 
   <p>
       <a href="https://www.buymeacoffee.com/somae">
