@@ -52,6 +52,9 @@
  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=jasondev01&theme=react&hide_border=true&border_radius=" />
   </p>
 
+| <a href="https://github.com/jasondev01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jasondev01&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Jason's github stats" /></a> | <a href="https://github.com/jasondev01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasondev01&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
     [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jasondev01&langs_count=6&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,python,tsql,hack)](https://github.com/jasondev01?tab=repositories) <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=jasondev01&theme=react&hide_border=true&border_radius=" />
 
   
