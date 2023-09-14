@@ -1,6 +1,6 @@
 <p align="center"> 
-  [![Website](https://img.shields.io/badge/kevinfeng.ga-grey?style=for-the-badge&url=https%3A%2F%2Fkevinfeng.ga)](https://jasonruben.com/) 
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/webflex/)](https://www.linkedin.com/in/webflex/) 
+  ![Website](https://img.shields.io/badge/kevinfeng.ga-grey?style=for-the-badge&url=https://jasonruben.com)  
+  ![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/webflex/) 
 </p>
 
 <h3 align="center">
