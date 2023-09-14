@@ -1,7 +1,20 @@
-<p align="center"> 
-  ![Website](https://img.shields.io/badge/kevinfeng.ga-grey?style=for-the-badge&url=https://jasonruben.com)  
-  ![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/webflex/) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jasondev01&label=Profile%20views&color=0e75b6&style=flat" alt="jsnflix" />
+  <a href="https://github.com/jasondev01">
+    <img src="https://img.shields.io/github/followers/jasondev01?label=Github&style=social" alt="github">
+  </a>
+  <a href="https://twitter.com/intent/follow?screen_name=jsnflix&tw_p=followbutton">
+    <img src="https://img.shields.io/twitter/follow/jsnflix?label=Twitter&style=social" alt="github">
+  </a>  
+  <a href="https://www.linkedin.com/in/webflex/"> 
+    <img src="https://img.shields.io/badge/- -%232c3e50?label=LinkedIn&style=social&logo=linkedin" alt="linkedin"> 
+  </a> 
+  <a href="mailto:jsnrbn01@gmail.com">
+    <img src="https://img.shields.io/badge/- -%232c3e50?label=Email&style=social&logo=gmail" alt="gmail">
+  </a>
 </p>
+
+
 
 <h3 align="center">
   I build dynamic and user-centric websites and applications with a focus on accessibility.
