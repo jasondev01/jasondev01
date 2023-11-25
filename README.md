@@ -17,7 +17,7 @@
 
 
 <h3 align="center">
-  I build dynamic and user-centric websites and applications with a focus on accessibility.
+  I build dynamic and user-centric websites and applications with a focus on accessibility, best practices, SEO and performance.
 </h3>
 <div align="center">
   
