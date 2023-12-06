@@ -3,9 +3,9 @@
   <a href="https://github.com/jasondev01">
     <img src="https://img.shields.io/github/followers/jasondev01?label=Github&style=social" alt="github">
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=jsnflix&tw_p=followbutton">
+<!--   <a href="https://twitter.com/intent/follow?screen_name=jsnflix&tw_p=followbutton">
     <img src="https://img.shields.io/twitter/follow/jsnflix?label=Twitter&style=social" alt="github">
-  </a>  
+  </a>   -->
   <a href="https://www.linkedin.com/in/webflex/"> 
     <img src="https://img.shields.io/badge/- -%232c3e50?label=LinkedIn&style=social&logo=linkedin" alt="linkedin"> 
   </a> 
