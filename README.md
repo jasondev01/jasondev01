@@ -32,6 +32,8 @@
   ![MongoDB](https://img.shields.io/badge/mongodb-%232c3e50.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
   ![Express](https://img.shields.io/badge/express-%232c3e50.svg?style=for-the-badge&logo=express&logoColor=white) 
   ![Laravel](https://img.shields.io/badge/laravel-%232c3e50.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+  ![Grafbase](https://img.shields.io/badge/grafbase-%232c3e50.svg?style=for-the-badge&logo=grafbase&logoColor=white) 
+  ![Cloudinary](https://img.shields.io/badge/cloudinary-%232c3e50.svg?style=for-the-badge&logo=cloudinary&logoColor=white) 
   ![MySQL](https://img.shields.io/badge/-mySQL-%232c3e50?style=for-the-badge&logo=mysql&logoColor=white) 
   ![HTML5](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/-CSS3-%232c3e50?style=for-the-badge&logo=CSS3&logoColor=white) 
