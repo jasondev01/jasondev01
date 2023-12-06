@@ -17,7 +17,7 @@
 
 
 <h3 align="center">
-  everyday code
+   ``` Everyday code. ```
 </h3>
 <div align="center">
   
