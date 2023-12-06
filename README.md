@@ -17,7 +17,7 @@
 
 
 <h3 align="center">
-  I build dynamic and user-centric websites and applications with a focus on accessibility, best practices, SEO and performance.
+  everyday code
 </h3>
 <div align="center">
   
