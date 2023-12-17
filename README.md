@@ -18,7 +18,7 @@
 
 <h3 align="center">
   
-   ```  Everyday code  ```
+   ```  upskill  ``` 
    
 </h3>
 <div align="center">
