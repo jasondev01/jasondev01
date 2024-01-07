@@ -50,11 +50,11 @@
   
   </p>
 
-  ### My Current Stat and Total Contribution: 
+<!--  ### My Current Stat and Total Contribution: 
   <p align="center">
     <a href="https://github.com/jasondev01/github-readme-stats"><img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasondev01&theme=github_dark&layout=compact&hide_border=true&border_radius=" /></a>  
-   <!--  <a href="https://github.com/jasondev01/github-readme-stats"><img height="165" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jasondev01&theme=react&hide_border=true&border_radius=" alt="Jason's github stats" /></a>  -->
-  </p>
+ <a href="https://github.com/jasondev01/github-readme-stats"><img height="165" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jasondev01&theme=react&hide_border=true&border_radius=" alt="Jason's github stats" /></a>  
+  </p> -->
 
 
   
