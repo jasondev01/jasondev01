@@ -33,6 +33,7 @@
   ![Nodejs](https://img.shields.io/badge/nodejs-%232c3e50.svg?style=for-the-badge&logo=nodejs&logoColor=white) 
   ![MongoDB](https://img.shields.io/badge/mongodb-%232c3e50.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
   ![Express](https://img.shields.io/badge/express-%232c3e50.svg?style=for-the-badge&logo=express&logoColor=white) 
+  ![Python](https://img.shields.io/badge/-python-%232c3e50?style=for-the-badge&logo=python&logoColor=white) 
   ![Laravel](https://img.shields.io/badge/laravel-%232c3e50.svg?style=for-the-badge&logo=laravel&logoColor=white) 
   ![Hygraph](https://img.shields.io/badge/hygraph-%232c3e50.svg?style=for-the-badge&logo=hygraph&logoColor=white) 
   ![Grafbase](https://img.shields.io/badge/grafbase-%232c3e50.svg?style=for-the-badge&logo=grafbase&logoColor=white) 
