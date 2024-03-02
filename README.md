@@ -46,7 +46,7 @@
   ![Tailwind](https://img.shields.io/badge/tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss&logoColor=white) 
   ![Bootstrap](https://img.shields.io/badge/-Boostrap-%232c3e50?style=for-the-badge&logo=bootstrap&logoColor=white) 
   ![Vercel](https://img.shields.io/badge/vercel-%232c3e50.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-  ![Netlify](https://img.shields.io/badge/netlify-%232c3e50.svg?style=for-the-badge&logo=netlify&logoColor=white) 
+ <!--  ![Netlify](https://img.shields.io/badge/netlify-%232c3e50.svg?style=for-the-badge&logo=netlify&logoColor=white) -->
   ![RestAPI](https://img.shields.io/badge/restapi-%232c3e50.svg?style=for-the-badge&logo=restapi&logoColor=white) 
   ![API](https://img.shields.io/badge/api-%232c3e50.svg?style=for-the-badge&logo=api&logoColor=white) 
   ![Git](https://img.shields.io/badge/git-%232c3e50.svg?style=for-the-badge&logo=git&logoColor=white) 
