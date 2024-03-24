@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=jasondev01&label=Profile%20views&color=0e75b6&style=flat" alt="jsnflix" />
   <a href="https://github.com/jasondev01">
     <img src="https://img.shields.io/github/followers/jasondev01?label=Github&style=social" alt="github">
@@ -15,16 +15,16 @@
 </p>
 
 
-
+<!--
 <h3 align="center">
   
    ```  upskill  ``` 
    
-</h3>
-<div align="center">
+</h3> -->
+<div align="left">
   
   ### Technologies, Tools and Platforms: 
-  <p align="center"> 
+  <p align="left"> 
 
   ![Nextjs](https://img.shields.io/badge/nextjs-%232c3e50.svg?style=for-the-badge&logo=next.js&logoColor=white) 
   ![Typescript](https://img.shields.io/badge/typescript-%232c3e50.svg?style=for-the-badge&logo=typescript&logoColor=white) 
