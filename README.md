@@ -3,9 +3,6 @@
   <a href="https://github.com/jasondev01">
     <img src="https://img.shields.io/github/followers/jasondev01?label=Github&style=social" alt="github">
   </a>
-<!--   <a href="https://twitter.com/intent/follow?screen_name=jsnflix&tw_p=followbutton">
-    <img src="https://img.shields.io/twitter/follow/jsnflix?label=Twitter&style=social" alt="github">
-  </a>   -->
   <a href="https://www.linkedin.com/in/webflex/"> 
     <img src="https://img.shields.io/badge/- -%232c3e50?label=LinkedIn&style=social&logo=linkedin" alt="linkedin"> 
   </a> 
@@ -14,13 +11,6 @@
   </a>
 </p>
 
-
-<!--
-<h3 align="center">
-  
-   ```  upskill  ``` 
-   
-</h3> -->
 <div align="left">
   
   ### Technologies, Tools and Platforms: 
@@ -61,21 +51,9 @@
   </p> -->
 
 
-  
-<!-- ### Support me: -->
-<!--    <p>  -->
-<!--       <a href="https://www.buymeacoffee.com/somae"> -->
-<!--         <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="somae"  /> -->
-<!--       </a>  -->
-<!--          &nbsp; -->
-<!--       <a href="https://ko-fi.com/somaa"> -->
-<!--         <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="180" alt="somaa" /> -->
-<!--       </a> -->
-<!--   </p> -->
-
   <p align="center">
     
-  ``` keep practicing. ```
+  ``` rest if needed ```
     
   </p>
 
